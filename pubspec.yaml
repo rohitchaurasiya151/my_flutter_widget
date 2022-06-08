@@ -38,6 +38,10 @@ dependencies:
   google_mobile_ads: ^1.2.0
   firebase_analytics: ^9.1.9
   firebase_core: ^1.17.1
+  get: ^4.6.5
+  get_storage: ^2.0.3
+  dio: ^4.0.6
+  cookie_jar: ^3.0.1
 
 dev_dependencies:
   flutter_test:
